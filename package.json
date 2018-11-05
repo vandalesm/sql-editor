@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antlr4": "^4.7.1",
+    "babel-polyfill": "^6.26.0",
+    "draft-js": "^0.10.5",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-scripts": "2.1.1"
